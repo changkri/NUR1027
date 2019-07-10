@@ -1,0 +1,33 @@
+---
+output:
+  xaringan::moon_reader:
+    seal: false
+    lib_dir: libs
+    css: [default, fonts.css, animate.css]
+    nature:
+      slideNumberFormat: |
+        <div class="progress-bar-container">
+          <div class="progress-bar" style="width: calc(%current% / %total% * 100%);">
+          </div>
+        </div>
+      ratio: '16:9'
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+library(icon)
+library(emo)
+```
+
+class:  center, middle
+
+# Introduction
+
+???
+
+This paper in the next section summarizes and organises the foundational work that has been done over the last couple of decades in knowledge translation. In particular in emphasising the importance of matching the theory or framework guiding a knowledge translation initiative to the purpose and focus of the project being undertaken. 
+
+First up, I want to introduce you to some of the models that have been developed. 
+
+---
+

@@ -1,0 +1,106 @@
+---
+output:
+  xaringan::moon_reader:
+    seal: false
+    lib_dir: libs
+    nature:
+      slideNumberFormat: |
+        <div class="progress-bar-container">
+          <div class="progress-bar" style="width: calc(%current% / %total% * 100%);">
+          </div>
+        </div>`
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+library(icon)
+library(emo)
+```
+
+class:  center, middle
+
+# Introduction
+
+
+???
+
+It's really well documented in the literature from many countries around the world that there are substantial barriers to implementing evidence into nursing practice. The barriers can be broadly categorized into those primarily impacting on the individual person, organizational factors and the actual evidence itself.
+
+---
+class: top
+.pull-left[
+# Individual
+
+
+## `r icon::fa("hourglass-end")` Lack of time
+
+## `r emo::ji("fearful")` Lack of expertise and confidence
+
+### `r icon::fa("angle-double-right")`Appraisal
+
+### `r icon::fa("angle-double-right")`Implementing change
+
+]
+
+???
+
+In terms of the individual factors, these include such things as a lack of time to access and appraise study reports. 
+
+A perceived lack of expertise in being able to evaluate the quality of evidence is also commonly noted to be a barrier. Both this course and 1127 next semester will equip you with skills in research appraisal that nurses involved in health systems leadership and administration roles require to be able to overcome this particular barrier. 
+
+And finally - lacking confidence in being able to implement change is also a significant barrier. The other courses in the HSLA program are directly targeted at preparing you with some skills and knowledge around implementing change in the nursing workplace.
+
+---
+class: top, left
+
+# Organizational
+
+--
+
+## `r emo::ji("scroll")` Entrenched practices and beliefs
+
+--
+
+## `r icon::fa("clipboard-list")` Complexity involved in changing practice
+
+--
+
+## `r icon::fa("hourglass-end")` Lack of support
+
+???
+
+Moving on to organizational barriers, I'm sure you've all encountered situations where things get done in a certain way - just beacause that's how it's always been done - regardless of how outdated or inefficient that practice may be. This is a real challenge that is very pervasive throughout nursing and healthcare more generally without an easy solution. 
+
+We also of course need to consider how complex healthcare is when considering how to implement a change in practice based on new evidence that may come to hand. The process of changing policy in healthcare institutions is most often time-consuming and even requires passing through quite a convoluted process, which can be challenging to navigate. 
+
+And again, it has been described in the literature time and again that nursing workload considerations don't incorporate the time required for nurses to undertake activities like conducting comprehensive literature searches and critical appraisal of research. 
+
+---
+
+class: top, left
+
+# Evidence
+
+
+## `r icon::fa("random")` Inconsistent results
+
+## `r icon::fa("times-circle")` Methodological limitations
+
+## `r icon::fa("search")` Gaps in evidence
+
+
+
+???
+
+Finally, there is of course barriers related to the evidence itself - in the form of methodological limitations, inconsistencies in results or deficiencies in the literature.
+
+---
+
+class: center, middle
+
+# Further reading
+
+???
+
+To close off this week's learning content, in the following sections there are two articles that focus on unpacking - in a little more detail - some of the barriers and factors that infuence nurses' use of evidence-based practice. Then we'll follow up on them in the discussion groups back on Quercus. See you there.
+

@@ -1,0 +1,25 @@
+{
+    "courseId": "NUR1027",
+    "title": "NUR1027",
+    "slogan": "NUR 1027H: Integrated Approaches to Research Appraisal and Utilization, Part 1",
+    "description": "The focus of NUR1027 is on critical examination and reflection on research and evidence-informed practice, with an emphasis on integration of theory and research to guide practice. You will develop an understanding of the philosophical foundations of contemporary approaches to knowledge production in nursing and the health sciences, and essential competencies in locating, interpreting, critiquing, and using research evidence in practice. Critical analysis of both qualitative and quantitative approaches and their underlying theoretical frameworks will enable you to understand and appropriately integrate research into practice.",
+    "bio": "Dr. Aaron Conway holds the RBC Chair in Cardiovascular Nursing Research at the Peter Munk Cardiac Centre and is an Assistant Professor in the Lawrence S. Bloomberg Faculty of Nursing at the University of Toronto.",
+    "siteUrl": "https://NUR1027-FALL-2019.netlify.com",
+    "twitter": "aw_conway",
+    "fonts": "IBM+Plex+Mono:500|IBM+Plex+Sans:700|Lato:400,400i,700,700i",
+    "testTemplate": "success <- function(text) {\n    cat(paste(\"\\033[32m\", text, \"\\033[0m\", sep = \"\"))\n}\n\n.solution <- \"${solutionEscaped}\"\n\n${solution}\n\n${test}\ntryCatch({\n    test()\n}, error = function(e) {\n    cat(paste(\"\\033[31m\", e[1], \"\\033[0m\", sep = \"\"))\n})",
+    "juniper": {
+        "repo": "awconway/NUR1027-FALL-2019",
+        "branch": "binder",
+        "lang": "r",
+        "kernelType": "ir",
+        "debug": false
+    },
+    "showProfileImage": true,
+    "footerLinks": [
+        { "text": "Website", "url": "https://NUR1027-FALL-2019.netlify.com" },
+        { "text": "Source", "url": "https://github.com/awconway/NUR1027-FALL-2019" },
+        { "text": "Built with ♥", "url": "https://github.com/ines/course-starter-r" }
+    ],
+    "theme": "#de7878"
+}

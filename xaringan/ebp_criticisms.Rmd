@@ -1,0 +1,68 @@
+---
+output:
+  xaringan::moon_reader:
+    seal: false
+    lib_dir: libs
+    nature:
+      slideNumberFormat: |
+        <div class="progress-bar-container">
+          <div class="progress-bar" style="width: calc(%current% / %total% * 100%);">
+          </div>
+        </div>`
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+
+class: center, middle
+
+# Introduction
+
+???
+
+Now I'd like to talk about the risks associated with evidence-based practice because there are in fact several to consider. 
+
+---
+
+class: left, middle
+
+--
+
+## evidence-based paralysis
+
+--
+
+## the myth of 'perfect evidence'
+
+--
+
+## information overload
+
+--
+.pull-left[
+## Hierarchies of evidence discount some important forms of research
+]
+
+???
+
+One such ‘side effect’ of the rise in importance of ‘evidence-based practice’ has been termed, evidence-based paralysis. This is a term used to describe the situation where you have a question - you go to the evidence to look for the evidence and, unfortunately, it just doesn't exist. Despite all this effort you’re left with no answer and are therefore paralyzed in your decision-making. 
+
+
+Another important thing to keep in mind is that there is no perfect evidence. All we have to deal with is the best available evidence at any given time and sometimes the best available evidence may just be expert opinion. 
+
+A major risk with evidence-based practice is being careful to consider the evidence in its entirety before making a decision. It's important to remember that the latest study may not be the best. So we need to take a look at all studies that are done on a topic. Unfortunately, finding what you're looking for amongst the literal sea of research papers indexed in the databases can be really challenging.  For that reason, a great source of information is always looking to systematic reviews, or rigorously conducted evidence summaries. One good source for evidence summaries are those produced by the Joanna Briggs Institute. 
+
+And finally - once again we have to be careful about those hierarchies of evidence. An unfortunate side effect of the popularity of the use of evidence hierarchies has been the tendancy for some forms of research to be considered of less value than they probably should be. In particular some forms of qualitative research and those that primarily focus on gaining insight into content expertise tend to be undervalued even though the context of the research or the clinical question may be very well suited to be answered by such research designs. 
+
+
+---
+
+class: center, middle
+
+# Further reading
+
+???
+
+In the next section we have a paper for you to read that critiques in detail about the assumptions behind the evidence-based practice movement and how it fits with nursing practice.

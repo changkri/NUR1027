@@ -1,0 +1,79 @@
+---
+output:
+  xaringan::moon_reader:
+    seal: false
+    lib_dir: libs
+    nature:
+      slideNumberFormat: |
+        <div class="progress-bar-container">
+          <div class="progress-bar" style="width: calc(%current% / %total% * 100%);">
+          </div>
+        </div>`
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+
+class: center, middle
+
+# Introduction
+
+???
+
+As you will have noticed, the two models just introduced are very conceptual, and don't provide much guidance for 'how' one can actually use the model to guide their decision-making. In contrast, there are some other evidence-based practice models that emphasize in much more detail the 'process'.
+
+---
+
+class: middle
+
+.pull-left[
+<img src="https://aconway.dev/images/JBI.png" height="400px" width="300px">
+]
+
+???
+Let's first take a look at the JBI model for evidence-based healthcare. The first thing we notice is that it is broken down into different segments. In the central component, four concepts are introduced that may not look immediately familiar. Let's go through them now. 
+
+---
+
+
+class: middle
+
+.pull-left[
+<img src="https://aconway.dev/images/jbiInner.png"  >
+]
+
+???
+The first concept is feasibility, which  relates to the extent to which an activity or intervention is practical or viable in a given context or situation.
+Appropriateness relates to the extent to which an intervention or activity fits with a context or situation.
+Meaningfulness refers to how an intervention or activity is experienced by an individual or group and the meanings they ascribe to that experience.
+Effectiveness relates to the extent to which an intervention achieves the intended result or outcome. 
+
+So although different terminology is used, these core concepts are still somewhat similar to the previous models we've already looked at, which broadly stated that evidence-based practice refers to incorporating research evidence, past experiences and patient values into decision-making. 
+
+
+---
+
+class: middle
+
+.pull-left[
+<img src="https://aconway.dev/images/JBI.png" height="400px" width="300px">
+]
+
+???
+
+What is different about the JBI model, are the other segments that start to hint at what steps can be taken to ensure that each of the core components are addressed. 
+
+The ‘inner segments’ provide the Institute’s conceptualization of the major steps involved in the process of achieving an evidence-based approach to clinical decision-making, whereas the ‘outer segments’ operationalize the component parts of the model and articulate how they might be actioned in a pragmatic way.
+
+---
+
+class: center, middle
+
+# Further reading
+
+???
+
+At this point, it would be good to review the JBI model in a little more detail. In the next section, you'll be able to read more about this model.
+

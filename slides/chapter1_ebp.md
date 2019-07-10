@@ -1,0 +1,43 @@
+---
+type: slides
+---
+
+# Introduction
+
+Notes: Hi. Today I'm going to be talking to you about 'evidence-based' practice.  We'll be covering this in far more detail, but in brief, evidence-based practice was best described by David Sackett as "the integration of clinical expertise, patient values, and the best research evidence into the decision making process for patient care." Ok, time to get started.
+
+---
+
+# Objectives
+
+- To critically analyze the emergence of the evidence-based practice movement.
+
+- To review and critique models for evidence-informed nursing practice.
+
+- To examine and propose roles for nursing leaders in advancing the <br> integration of evidence in health care delivery.
+
+Notes: We have a few objectives set out to achieve in this module. One of our goals is to critically analyze the emergence of the evidence-based practice movement, paying particular attention to contributing factors, as well as the positive and negative consequences or impacts for nursing and health care more generally.
+
+Another goal is to review and critique some of the models that have been developed to support the use of evidence-based nursing practice.
+
+And finally, we want to examine and propose roles for nursing leaders in advancing the integration of evidence in health care delivery. First things first, let's start to unpack what evidence-based practice actually is. 
+
+---
+# Misconceptions about EBP
+
+<img src="Evidence_Hierarchy.png" height="600px" width="600px">
+
+Notes: What do people mean when they say evidence-based practice? A common misconception is that it’s entirely about ensuring that the latest and greatest research evidence available is getting used by clinicians to treat their patients. This, however, is quite a limited definition and it doesn’t encompass each of the core components of the evidence-based practice movement. One thing that comes to mind for some, because of ways that evidence-based practice has been taught in the past, is the evidence-hierarchy pyramid. You may have seen one of these, where typically at the bottom there are things like case reports or expert opinion and at the top are things like systematic reviews and meta-analyses. Evidence hierarchies like this only provide a very simplified ordering of the different types of research studies that can be used to evaluate the effects of an intervention, and infact, the utility of these pyramids is very limited. A big prolem with evidence hierarchies is that the hierarchy doesn't adequalty consider the context for the clinical question being investigated or the methodological quality of the studies at each step of the hierarchy. 
+
+---
+# Integrating evidence, patient values and clinical expertise (experience)
+
+Notes: Now that we've got some of the common misconceptions about evidence-based practice out of the way, let's turn the focus towards teasing out how clinicians can go about making decisions for patient care using an evidence-based practice approach. As we all well know, decision making in healthcare is complex. The first thing we need to consider is the evidence itself. Central to this is the quality of the research and broadly speaking we need to consider how likely it is that the results were affected by any one of a number of different forms of bias and also how generalizable the findings of the study are to the present situation at hand. 
+
+A second consideration are the patients themselves.  Each patient has a different set of values and preferences, so what works for one patient may not ideally suit another and we have to think about that when we're looking at the evidence in trying to incorporate it into patient care. The final component is us, the clinicians. The experiences that I've had may be very different than yours and how I apply the evidence to a specific group of patients therefore may be justifiably quite different. Where we see these three things intersecting, the evidence, the patient values and preferences, as well as our own judgment and experience, is generally what we like to call evidence-based practice.
+
+---
+
+# Let's practice!
+
+Notes: Now it's time to revisit some of the core concepts we've just introduced from a somewhat different perspecitive of what counts as 'evidence' from a group of nursing researchers who are leaders in the field of implementing evidence into practice. 

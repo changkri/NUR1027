@@ -1,0 +1,122 @@
+---
+output:
+  xaringan::moon_reader:
+    seal: false
+    lib_dir: libs
+    css: [default, fonts.css, animate.css]
+    nature:
+      slideNumberFormat: |
+        <div class="progress-bar-container">
+          <div class="progress-bar" style="width: calc(%current% / %total% * 100%);">
+          </div>
+        </div>
+      ratio: '16:9'
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+library(icon)
+library(emo)
+```
+
+class:  center, middle
+
+# Introduction
+
+
+???
+
+This week we look at different approaches for moving knowledge into practice focusing primarily on knowledge generated through research. 
+
+---
+
+class: top, animated, fadeIn
+
+.pull-left[
+  
+# Objectives
+
+
+- To appreciate the complexity involved in moving research evidence into practice.
+
+- To understand and use frameworks to guide activities to move evidence into practice. 
+
+]
+
+???
+
+You'll see as you work your way through the learning material this week that due to the complex nature of health care systems - there really is no one perfect way to move research evidence into practice. And as a result, there has been a large number of different frameworks and models produced to try and support nurses and other healthcare clinicians to translate knowledge produced from research into their clinical practice.
+
+So let's get started with some definitions of key terms and concepts related to knowledge translation.
+
+---
+class: left, top, animated, fadeIn
+
+# `r icon::fa("list")` Key terms and concepts
+
+
+
+--
+
+### knowledge transfer
+
+--
+
+### knowledge exchange
+
+--
+
+### research utilization
+
+--
+
+### implementation
+
+--
+
+### implementation science
+
+
+--
+
+
+### diffusion
+
+--
+
+### dissemination
+
+
+
+???
+
+Broadly speaking, knolwedge translation is concerned with packaging, communicating and promoting knowledge in its various forms so that is can be used in practice. However, there is confusion and misunderstanding about the concepts. A number of different terms get thrown around like, knowledge transfer, knowledge exchange, research utilization, implementation, implementation science, diffusion of ideas or knowledge and dissemination. A key consideration to take away from this is that the terms are not necessarily all synonymous with knowledge translation. 
+
+---
+
+class: middle, animated, fadeIn
+
+.pull-left[
+### “A dynamic and iterative process that includes synthesis, dissemination, exchange and ethically-sound application of knowledge to improve the health of Canadians, provide more effective health services and products and strengthen the health care system.” 
+> Canadian Institute of Health Research
+]
+
+???
+
+The Canadian Institute of Health Research defines knowledge translation as,
+
+"A dynamic and iterative process that includes synthesis, dissemination, exchange and ethically-sound application of knowledge to improve the health of Canadians, provide more effective health services and products and strengthen the health care system."
+
+This definition speaks to the purpose and interaction of the different elements of knowledge translation, but also emphasises that the actual way that KT is performed (or in other words how researcher and the users of the knowledge interact) needs to vary in the intensity=and level of engagement depending on the nature of the research and the findings as well as the needs of the particular knowledge user. 
+
+---
+
+class: middle, center
+
+# Reading
+
+???
+
+The paper in the next section will provide more detail about the many different concepts and terms associated with knowledge translation and later on we'll introduce in more detail some of the specific models that are commonly used in nursing and healthcare.
+---
+
