@@ -1,0 +1,36 @@
+---
+title: "qualitative_description"
+author: "K Chang"
+date: "07/10/2019"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Introduction 
+
+This week we continue our exploration of qualitative research by examining qualitative descriptive research - a design that is commonly used in nursing and health sciences research. 
+
+Qualitative description is used when the aim of the study is to describe a phenomenom, and to understand the who, what, where and why of the experience. 
+
+
+## Slide with Bullets
+
+- Bullet 1
+- Bullet 2
+- Bullet 3
+
+## Slide with R Output
+
+```{r cars, echo = TRUE}
+summary(cars)
+```
+
+## Slide with Plot
+
+```{r pressure}
+plot(pressure)
+```
+
