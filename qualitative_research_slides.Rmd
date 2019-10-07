@@ -13,8 +13,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 This week we continue our exploration of qualitative research by examining qualitative descriptive research - a design that is commonly used in nursing and health sciences research. 
 
-Qualitative description is used when the aim of the study is to describe a phenomenom, and to understand the who, what, where and why of the experience. 
+The aim of Qualitative Description is to describe a phenomenom, or to understand the who, what, where and why of an event or experience. 
 
+Although we'll discuss the many advantages to using this approach, you'll see that it's flexibility in design can make it challenging to define in terms of specific characteristics or methods.  
 
 ## Slide with Bullets
 
