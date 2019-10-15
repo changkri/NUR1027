@@ -28,6 +28,7 @@ class: center, middle
 ---
 
 .pull-left[
+
 * Philosophy: Pragmatic approach with overtones for other qualitative approaches. 
 
 * Theoretical orientation: Naturalism
@@ -38,4 +39,5 @@ class: center, middle
 ** Data analysis: Variation of qualitative content analysis
 
 * Reporting results: Descriptive summary
+
 ]
