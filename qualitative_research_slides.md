@@ -9,7 +9,7 @@ output: ioslides_presentation
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Introduction 
+## Slide 1- Introduction 
 
 This week we continue our exploration of qualitative research by examining qualitative descriptive research - a design that is commonly used in nursing and health sciences research. 
 
@@ -20,8 +20,8 @@ While we'll discuss the many advantages to using this approach, you'll see that 
 
 ## Objectives
 
-- Understand and critique qualitative descriptive design and its fundamental features and characteristics.
-- Critically appraise and interpret findings from qualitative descriptive studies and consider relevance to practice. 
+* Understand and critique qualitative descriptive design and its fundamental features and characteristics.
+* Critically appraise and interpret findings from qualitative descriptive studies and consider relevance to practice. 
 
 
 ## Generic Qualitative Research
@@ -40,13 +40,17 @@ The complex components of distinct qualitative approaches like phenomenology, et
 
 Sandelowski (2000, p.335) explains that qualitative description is it's own research method, rather than a "nursing adaptation of grounded theory, phenomenology, and ethnography". 
 
--Philosophy:
--Theoretical orientation
--Design:
--Sampling:
--Data collection:
--Data analysis:
--Trustworthiness of data: 
+* Philosophy:
+* Theoretical orientation: Naturalism
+* Design features:
+** Sampling: Purposive sampling strategies (e.g., Maximum variation)
+* Data collection: Open-ended questions in individual or focus group interviews 
+* Data analysis: 
+** Descriptive statistics to summarize data 
+** Stays close to data (low-level interpretation)
+** Variation of qualitative content analysis (e.g., using "in vivo coding") 
+* Reporting results: Stays close to data and describes informants' experiences in a language similar to their own langauge.
+
 
 ## Considerations
 In terms of the quality of research design, qualitative description has developed a reputation for being low-quality. As Sandelowski (2000, p.334) explained, the hierarchy for evidence-based research values "prediction and control" as the gold standard. As a result, researchers may feel the need to defend their study as being more than a description, and attempt to position their research as phenomenology, grounded theory, ethnography, narrative inquiry, or a case study without actually involving the characteristics of the approach, or engaging in the complex design (Sandelowski, 2000).           

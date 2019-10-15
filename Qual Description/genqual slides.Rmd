@@ -1,0 +1,43 @@
+---
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+class: center, middle
+
+# Introduction
+
+???
+
+---
+
+.pull-left[
+# Generic qualitative research:
+
+"not guided by an explicit or established set of philosphic assumptions in the form of one of the known qualitative methodlogies"
+
+*Caelli et al. (2003, p.2)
+]
+
+???
+
+---
+
+image: ![]()
+
+???
+* Image of qualitative description and interpretive description branching off from generic qualitative research.
+* Qualitative description and interpretive description are considered "subcategories" of generic qualitative research (Kahlke, 2014, p.37). 
+
+---
+
+
