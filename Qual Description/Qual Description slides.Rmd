@@ -1,0 +1,69 @@
+---
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+class: center, middle
+
+# Introduction
+
+???
+
+
+---
+
+# Objectives
+
+.pull-left[
+
+* Understand and critique qualitative descriptive design and its fundamental features and characteristics.
+
+* Critically appraise and interpret findings from qualitative descriptive studies and consider relevance to practice. 
+
+]
+
+???
+
+---
+
+# Key terms and concepts 
+
+.pull-left[
+
+* Generic qualitative research
+
+* Qualitative description 
+
+* Interpretive description
+
+]
+
+???
+
+---
+
+.pull-left[
+
+"Qualitative description is a 'distributed residual category' in the classification of these methods. Its value lies not only in the knowledge its use can produce, but also as a vehicle for presenting and treating research methods as living entitites that resist simple classification."
+
+- Sandelowski, 2010, p.77
+
+]
+
+???
+
+---
+
+class: center, middle
+
+# xaringan
+
