@@ -19,3 +19,41 @@ class: center, middle
 ???
 
 ---
+
+.pull-left[
+#Advantages
+
+* Pragmatic approach
+
+* May be appropriate if limited in time and resources
+
+* Useful for mixed methods research or developing interventions
+]
+
+???
+
+---
+
+.pull-left[
+#Considerations
+
+* Reputation of being low-quality 
+
+* Limited guidance 
+
+* 'Method slurring' 
+]
+
+???
+
+---
+
+.pull-left[
+"The value of qualitative description lies not only in the knowledge its use can produce, but also as a vehicle for presenting and treating research methods as living entities that resist simple classiﬁcation."
+
+* (Sandelowski, 2010, p.83) 
+]
+
+???
+
+---
