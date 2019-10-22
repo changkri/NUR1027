@@ -12,13 +12,6 @@ output:
 ```{r setup, include=FALSE}
 options(htmltools.dir.version = FALSE)
 ```
-class: center, middle
-
-# Introduction
-
-???
-
----
 
 .pull-left[
 # Generic qualitative research:

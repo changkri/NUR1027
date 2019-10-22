@@ -14,14 +14,17 @@ options(htmltools.dir.version = FALSE)
 ```
 class: center, middle
 
-# Introduction
+# Qualitative Description
+
 
 ???
 
 ---
 
-# Qualitative Description
+class: center, middle
 
+“It is rarely feasible for researchers to engage in a deeply theoretical and methodologically sophisticated study, yet this should not exclude clinicians from thoughtful rigorous inquiry.” 
+* [Caelli et al., 2003, p.2] 
 
 ???
 
