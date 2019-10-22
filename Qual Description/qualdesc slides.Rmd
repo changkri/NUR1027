@@ -29,15 +29,19 @@ class: center, middle
 
 .pull-left[
 
-* Philosophy: Pragmatic approach with overtones for other qualitative approaches. 
+* **Philosophy**: Pragmatic approach with overtones for other qualitative approaches. 
 
-* Theoretical orientation: Naturalism
+* **Theoretical orientation**: Naturalism
 
-* Design features: 
-** Sampling: Purposive sampling strategy (e.g., maximum variation)
-** Data collection: Open-ended questions in individual or focus group interviews
-** Data analysis: Variation of qualitative content analysis
+* **Design features**: 
+** *Sampling*: Purposive sampling strategy (e.g., maximum variation)
+** *Data collection*: Open-ended questions in individual or focus group interviews
+** *Data analysis*: Variation of qualitative content analysis
 
-* Reporting results: Descriptive summary
+* **Reporting results**: Descriptive summary
 
 ]
+
+???
+
+---
