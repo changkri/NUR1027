@@ -18,10 +18,12 @@ options(htmltools.dir.version = FALSE)
 
 "not guided by an explicit or established set of philosphic assumptions in the form of one of the known qualitative methodlogies"
 
-*Caelli et al. (2003, p.2)
+*Caelli et al. [2003, p.2]
 ]
 
 ???
+
+To review, generic qualitative research doesn't conform to any of the established qualitative approaches (Kahlke, 2014). Caelli et al. (2003, p.2) defines generic qualitative research as qualitative research that's "not guided by an explicit or established set of philosphic assumptions in the form of one of the known qualitative methodlogies".
 
 ---
 
@@ -29,7 +31,11 @@ image: ![]()
 
 ???
 * Image of qualitative description and interpretive description branching off from generic qualitative research.
-* Qualitative description and interpretive description are considered "subcategories" of generic qualitative research (Kahlke, 2014, p.37). 
+
+
+Qualitative description and interpretive description are considered "subcategories" of generic qualitative research (Kahlke, 2014, p.37). 
+
+It's important to recognize the distinction between the two (qualitative description and interpretive description). The intent of qualitative description is to stay close to the data to produce a descriptive summary that is communicated in the informant's everyday language (Sandelowski, 2000; Neergaard et al., 2009). With interpretive description, producing a description alone is insufficient. Rather, the researcher should produce a "coherent conceptual description" that provides greater theoretical knowledge, and explores clinical patterns or structural observations of the clinical phenomena of interest with implications to practice (Thorne et al., 2004, p. 4).    
 
 ---
 

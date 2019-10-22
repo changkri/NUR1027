@@ -46,6 +46,8 @@ class: center, middle
 
 ???
 
+In terms of the quality of research design, qualitative description has developed a reputation for being low-quality. As Sandelowski (2000, p.334) explained, the hierarchy for evidence-based research values "prediction and control" as the gold standard. As a result, researchers may feel the need to defend their study as being more than a description, and attempt to position their research as phenomenology, grounded theory, ethnography, narrative inquiry, or a case study without actually involving the characteristics of the approach, or engaging in the complex design (Sandelowski, 2000).
+
 ---
 
 .pull-left[

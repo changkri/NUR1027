@@ -19,6 +19,8 @@ class: center, middle
 
 ???
 
+The complex components of distinct qualitative approaches like phenomenology, ethnography, grounded theory, narrative or case study makes qualitative description an appealing approach for nursing research (Sandelowski, 2000).
+
 ---
 
 class: center, middle
@@ -27,6 +29,10 @@ class: center, middle
 * [Caelli et al., 2003, p.2] 
 
 ???
+
+It's not always reasonable for clinician researchers to conduct "deeply theoretical and methodoloigcally sophisticated" qualitative studies, but that shouldn't deter them from engaging in qualitative research that maintains "thoughtful and rigorous inquiry" (Caelli et al., 2003, p.2).  
+
+Sandelowski (2000, p.335) explains that qualitative description is it's own research method, rather than a "nursing adaptation of grounded theory, phenomenology, and ethnography". 
 
 ---
 
@@ -47,4 +53,14 @@ class: center, middle
 
 ???
 
+* Philosophy: Pragmatic approach
+* Theoretical orientation: Naturalism
+* Design features:
+** Sampling: Purposive sampling strategies (e.g., Maximum variation)
+* Data collection: Open-ended questions in individual or focus group interviews 
+* Data analysis: 
+** Descriptive statistics to summarize data 
+** Stays close to data (low-level interpretation)
+** Variation of qualitative content analysis (e.g., using "in vivo coding") 
+* Reporting results: Stays close to data and describes informants' experiences in a language similar to their own langauge.
 ---
